@@ -1,0 +1,10 @@
+c:\users\cesar.martinezsm\source\repos\WCF_Calculator\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+c:\users\cesar.martinezsm\source\repos\WCF_Calculator\Calculadora\obj\Debug\Calculadora.Form1.resources
+c:\users\cesar.martinezsm\source\repos\WCF_Calculator\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+c:\users\cesar.martinezsm\source\repos\WCF_Calculator\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+c:\users\cesar.martinezsm\source\repos\WCF_Calculator\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+c:\users\cesar.martinezsm\source\repos\WCF_Calculator\Calculadora\bin\Debug\Calculadora.exe.config
+c:\users\cesar.martinezsm\source\repos\WCF_Calculator\Calculadora\bin\Debug\Calculadora.exe
+c:\users\cesar.martinezsm\source\repos\WCF_Calculator\Calculadora\bin\Debug\Calculadora.pdb
+c:\users\cesar.martinezsm\source\repos\WCF_Calculator\Calculadora\obj\Debug\Calculadora.exe
+c:\users\cesar.martinezsm\source\repos\WCF_Calculator\Calculadora\obj\Debug\Calculadora.pdb

@@ -1,0 +1,7 @@
+c:\users\cesar.martinezsm\source\repos\WCF_Calculator\WCF_Calculator\bin\WCF_Calculator.dll.config
+c:\users\cesar.martinezsm\source\repos\WCF_Calculator\WCF_Calculator\bin\WCF_Calculator.dll
+c:\users\cesar.martinezsm\source\repos\WCF_Calculator\WCF_Calculator\bin\WCF_Calculator.pdb
+c:\users\cesar.martinezsm\source\repos\WCF_Calculator\WCF_Calculator\obj\Debug\WCF_Calculator.csprojAssemblyReference.cache
+c:\users\cesar.martinezsm\source\repos\WCF_Calculator\WCF_Calculator\obj\Debug\WCF_Calculator.csproj.CoreCompileInputs.cache
+c:\users\cesar.martinezsm\source\repos\WCF_Calculator\WCF_Calculator\obj\Debug\WCF_Calculator.dll
+c:\users\cesar.martinezsm\source\repos\WCF_Calculator\WCF_Calculator\obj\Debug\WCF_Calculator.pdb

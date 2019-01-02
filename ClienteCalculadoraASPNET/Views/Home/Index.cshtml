@@ -1,0 +1,46 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="container" ng-app="">
+    <div class="row">
+        <div class="col-sm-2"></div>
+        <div class="col-sm-6">
+            <div class="panel panel-primary">
+                <div class="panel-heading">Calculadora</div>
+                <div class="panel-body">
+                    <form action="/" method="post">
+                        <label>Mostrar otra opcion </label>
+                        <input type="checkbox" ng-model="checked">
+                        <div class="form-group">
+                            <select name="Operaciones" class="form-control" ng-show="checked">
+                                <option value="Suma">Suma</option>
+                                <option value="Resta">Resta</option>
+                                <option value="Division">Division</option>
+                                <option value="Multiplicacion">Multiplicacion</option>
+                            </select>
+                        </div>
+                        <div class="form-group" ng-hide="checked">
+                            <label class="radio-inline"><input ng-model="Operacion" type="radio" name="Operacion" value="Suma">Suma</label>
+                            <label class="radio-inline"><input ng-model="Operacion" type="radio" name="Operacion" value="Resta">Resta</label>
+                            <label class="radio-inline"><input ng-model="Operacion" type="radio" name="Operacion" value="Multiplicacion">Multiplicacion</label>
+                            <label class="radio-inline"><input ng-model="Operacion" type="radio" name="Operacion" value="Division">Division</label>
+                        </div>
+
+                        <div class="form-group">
+                            <input class="form-control" type="text" name="num1" value="" placeholder="Numero 1" />
+                            <br />
+                            <input class="form-control" type="text" name="num2" value="" placeholder="Numero2" />
+                        </div>
+
+                        <div class="form-group">
+                            <input class="btn btn-primary" type="submit" name="name" value="Calcular" />
+                        </div>
+
+                    </form>
+                    <div class="jumbotron">@ViewBag.resultado</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
